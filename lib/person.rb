@@ -10,3 +10,5 @@ def name=(name)
     @name
   end
 end
+
+Person.new("Bob")
