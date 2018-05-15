@@ -22,4 +22,4 @@ class Dog
 end
 Dog.new("Rex", "Terrier")
 pickle = Dog.new("Pickle")
-puts pickle
+puts pickle.breed
