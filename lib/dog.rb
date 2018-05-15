@@ -21,5 +21,4 @@ class Dog
   end
 end
 Dog.new("Rex", "Terrier")
-pickle = Dog.new("Pickle")
-puts pickle.breed
+Dog.new("Pickle")
