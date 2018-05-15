@@ -23,3 +23,4 @@ end
 
 Dog.new("Rex", "Terrier")
 Dog.new("Pickle")
+puts pickle
